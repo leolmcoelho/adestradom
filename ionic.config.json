@@ -1,7 +1,8 @@
 {
   "name": "Adestradom",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
